@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod -hR vincent:staff .
+chownd -hR vincent:staff .
